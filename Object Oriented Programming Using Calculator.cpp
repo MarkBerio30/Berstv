@@ -140,6 +140,5 @@ int main ()
 {
 	calculator obj; //create an object of calculator
 	obj.input(); //call the method input
-	cout << "hakdog ka udog hahaha";
 	return 0;
 }
