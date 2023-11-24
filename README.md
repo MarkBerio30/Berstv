@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkBerio
-- 👀 I’m interested in C++, HTML, CSS ...
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on someone that can teach me the code
+- 👀 I’m interested in C++, Creating Websites, Embedded Programming, App Developer in Kodular
+- 🌱 I’m currently learning to Develop App
+- 💞️ I’m looking to collaborate with someone that can teach me the code
 - 📫 How to reach me ...
 
 <!---
