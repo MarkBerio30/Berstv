@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MarkBerio
-- 👀 I’m interested in C++, Creating Websites, Embedded Programming, App Developer in Kodular
+- 👋 Hi, I’m @Engr Berio
+- 👀 I’m interested in Creating Websites, Embedded System Development, App Developer in Kodular, Microsoft Office Suite Proficiency
 - 🌱 I’m currently learning to Develop App
 - 💞️ I’m looking to collaborate with someone who can teach me the code
 - 📫 How to reach me contact me markberio30@gmail.com
